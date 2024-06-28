@@ -1,7 +1,7 @@
 ## About me
 
-<hl align="left"> Uziuukky
-<hl align="left"> with MCfunction
+<h1 align="left"> Uziuukky </h1>
+<h3 align="left"> with MCfunction </h3>
 
 <!--
 **Uziuukky/Uziuukky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
