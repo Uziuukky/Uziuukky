@@ -1,5 +1,3 @@
-## About me
-
 <h1 align="left"> Uziuukky </h1>
 <h3 align="left"> with MCfunction </h3>
 
