@@ -1,5 +1,5 @@
-<h1 align="left"> Uziuukky </h1>
-<h3 align="left"> with MCfunction </h3>
+<h1 align="left"> Retention </h1>
+<h3 align="left"> Not Uziuukky </h3>
 
 <!--
 **Uziuukky/Uziuukky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
